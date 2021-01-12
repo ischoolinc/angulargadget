@@ -1,9 +1,6 @@
 Angular Gadget
 ====
 
-## Gadget 清單
-* `25c70b56-4c70-4336-b74b-ef12d43064de` 線上點名
-
 ## 前置要求
 * 安裝 Node.js
 * 安裝 Yarn (建議安裝)
@@ -11,7 +8,7 @@ Angular Gadget
 * 安裝 Angular CLI (`yarn global add @angular/cli`)。
 
 ## 開始開發
-* `git clone https://github.com/gildarts/angulargadget mygadget`
+* `git clone https://github.com/ischoolinc/angulargadget mygadget`
 * `cd mygadget`
 * `yarn` #安裝套件
 * `yarn start` ＃啟動 angular server。
@@ -35,4 +32,9 @@ Angular Gadget
 ...
 ```
 這作法會將 jquery 打包進 bundle 裡面，如果不要打包，可以直接放在 `assets` 目錄裡，然後在 `index.html` 直接引用。
+
+### 更多資訊
+Angular 研究院  
+https://3.basecamp.com/4399967/projects/15850221
+
 
